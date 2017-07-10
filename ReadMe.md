@@ -23,3 +23,8 @@ Here are some screenshots to help visualize:
 
 ![alt text](https://github.com/imthecritic/Helpdesk/blob/master/Screen%20Shot%202017-06-30%20at%208.59.12%20AM.png "Closed")
 
+![alt text](https://github.com/imthecritic/Helpdesk/blob/master/Screen%20Shot%202017-07-10%20at%202.41.06%20PM.png "Item")
+
+![alt text](https://github.com/imthecritic/Helpdesk/blob/master/Screen%20Shot%202017-07-10%20at%202.41.29%20PM.png "Item Edit 1")
+
+![alt text](https://github.com/imthecritic/Helpdesk/blob/master/Screen%20Shot%202017-07-10%20at%202.41.36%20PM.png "Item Edit 2")
